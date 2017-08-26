@@ -14,8 +14,8 @@ class SubscriptionTest < ActiveSupport::TestCase
 
   test "belongs to a user" do
     user = User.new
-    subscription = Subscription.new(user: user)
-  
-    assert_equal(subscription.user, user)
+    subscription = Subscription.new(subscriber: user)
+
+    assert_equal(subscription.subscriber, user)
   end
 end
