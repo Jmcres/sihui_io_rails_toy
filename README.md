@@ -1,25 +1,3 @@
-# README
+# Rails examples used in sihui.io
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# sihui_io_rails_toy
+Read all [articles on Rails](http://www.sihui.io/category/ruby-on-rails/).
