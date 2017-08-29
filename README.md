@@ -1,25 +1,3 @@
-# README
+# An example combining has_many :through with polymorphic associations.
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
-# sihui_io_rails_toy
+See explainations in [this article](http://www.sihui.io/has_many-through-and-polymorphic/).
